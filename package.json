@@ -1,0 +1,20 @@
+{
+  "name": "handle-promise",
+  "version": "1.0.0",
+  "description": "Promise handler function that return fulfilled promise with { error, result }",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somprasongd/handle-promise.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Somprasong Damyos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somprasongd/handle-promise/issues"
+  },
+  "homepage": "https://github.com/somprasongd/handle-promise#readme"
+}

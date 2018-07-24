@@ -1,0 +1,1 @@
+module.exports = promise => promise.then(result => ({ error: undefined, result })).catch(error => ({ error }));
